@@ -1,4 +1,7 @@
-# Ejericios de uso de etiquetas <code><li><ul><ol></code>
+# Ejericios de uso de etiquetas
+```html
+    <li><ul><ol>
+```  
 Replicar la imagen de ejemplo o hacer una a tu estilo sobre un personaje cualquiera.
 ## Requisitos
    * Uso de etiquetas
